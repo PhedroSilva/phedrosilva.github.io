@@ -9,7 +9,7 @@
 
 body {
   font-size: 100%;
-  background: linear-gradient(68.15deg, #2F2325 16.62%, blue 85.61%);
+  background: linear-gradient(68.15deg, #494546 16.62%, rgb(195, 195, 214) 85.61%);
 }
 
 .cabecalho {
@@ -18,4 +18,8 @@ body {
   align-items: center;
   justify-content: space-around;
   padding: 24px;
+}
+  
+a{
+  color: aquamarine;
 }
